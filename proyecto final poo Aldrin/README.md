@@ -9,7 +9,7 @@ Sabor Valluno atiende pedidos en el local, para llevar y por delivery. Antes tom
 
 Proyecto Integrador de **Programación Orientada a Objetos**, individual.
 
-Estudiante:Joel Alfred Colque Tito
+Estudiante:Gonzales Lovera Aldrin Gabriel
 
 ## Características
 
